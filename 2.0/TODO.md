@@ -8,6 +8,7 @@ Once populated, this folder should follow the standard version-folder layout des
 2.0/
   v2.0_Help_Guide.md
   v2.0_BBCode_Reference.md
+  v2.0_Board_Example.md
   v2.0_Distance_Calculator_Reference.md
   Defenses/v2.0_Defenses_Table.md
   Units/v2.0_Units_Table.md
